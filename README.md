@@ -1,4 +1,4 @@
-# hello-world1
+# hello-world
 Learning how to use Git
 
 I've learned to read files. Hu-hu!
